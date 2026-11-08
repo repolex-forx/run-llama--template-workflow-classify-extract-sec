@@ -1,0 +1,11 @@
+{
+  "org": "run-llama",
+  "repo": "template-workflow-classify-extract-sec",
+  "versions": [
+    {
+      "commit": "bc83c5739dc0c667180609d3d77eb4a73312623e",
+      "tag": "",
+      "parsed_at": "2026-11-08T01:22:32.946971+00:00"
+    }
+  ]
+}
